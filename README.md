@@ -31,7 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run analyze`
 
-Builds the app and start analysez to review package composition.
+Builds the app and start analyser to review package composition.
 
 ### `npm run eject`
 
