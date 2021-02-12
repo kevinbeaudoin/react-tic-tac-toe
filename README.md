@@ -33,6 +33,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Builds the app and start analyser to review package composition.
 
+### `npm run coverage`
+
+Runs all tests and output basic coverage info in console.
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
